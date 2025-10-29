@@ -1,0 +1,17 @@
+../Core/Src/main.c:80:1:__io_putchar	2
+../Core/Src/main.c:129:5:main	8
+../Core/Src/main.c:230:6:SystemClock_Config	3
+../Core/Src/main.c:269:13:MX_CAN_Init	3
+../Core/Src/main.c:324:13:MX_I2C1_Init	2
+../Core/Src/main.c:358:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:391:13:MX_GPIO_Init	1
+../Core/Src/main.c:423:10:as5600_read_angle	2
+../Core/Src/main.c:440:6:HAL_GPIO_EXTI_Callback	5
+../Core/Src/main.c:472:19:drv2605l_write_reg	2
+../Core/Src/main.c:500:19:drv2605l_read_reg	2
+../Core/Src/main.c:528:19:drv2605l_init	18
+../Core/Src/main.c:647:19:drv2605l_play_effect	5
+../Core/Src/main.c:677:6:HAL_CAN_RxFifo0MsgPendingCallback	7
+../Core/Src/main.c:724:19:read_mux_control_register	1
+../Core/Src/main.c:733:19:select_mux_channel	2
+../Core/Src/main.c:751:6:Error_Handler	1
